@@ -1,0 +1,22 @@
+{
+  "name": "tugas3-sanber-qa",
+  "version": "1.0.0",
+  "description": "Nama: Yusuf Bachtiar",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yusufbtr/tugas3-sanber-qa.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yusufbtr/tugas3-sanber-qa/issues"
+  },
+  "homepage": "https://github.com/yusufbtr/tugas3-sanber-qa#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
