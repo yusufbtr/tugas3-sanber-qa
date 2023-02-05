@@ -1,1 +1,3 @@
-# tugas3-sanber-qa
+# Tugas3-sanber-qa
+
+Nama: Yusuf Bachtiar
